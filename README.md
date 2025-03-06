@@ -1,4 +1,4 @@
-#🚀 HireAI – AI-Powered Job Board & Resume Analyzer
+🚀 #HireAI – AI-Powered Job Board & Resume Analyzer
 
 🔹 About HireAI
 HireAI is a next-generation job board and AI-powered resume analyzer that helps job seekers find the best opportunities and enables recruiters to match with top talent efficiently. The platform leverages OpenAI/Gemini for resume parsing, AI-driven job recommendations, and real-time chat for seamless hiring interactions.
